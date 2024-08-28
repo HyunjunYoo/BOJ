@@ -2,7 +2,7 @@
 
 > 2024.07.26 백준 알고리즘 문제 풀기 시작
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=favorcat)](https://solved.ac/favorcat)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=howl126)](https://solved.ac/howl126)
 
 ---
 ### [Bronze🥉](https://github.com/favorcat/BOJ/tree/master/Bronze)
