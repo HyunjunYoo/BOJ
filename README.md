@@ -12,7 +12,7 @@
  - [Bronze I](https://github.com/HyunjunYoo/BJA)
 
 ### [Silver🥈](https://github.com/HyunjunYoo/BJA)
- - [Silver V](https://github.com/HyunjunYoo/BJA)
+ - [Silver V](https://github.com/HyunjunYoo/BOJ/tree/main/%EB%B0%B1%EC%A4%80/Silver)
  - [Silver IV](https://github.com/HyunjunYoo/BJA)
  - [Silver III](https://github.com/HyunjunYoo/BJA)
  - [Silver II](https://github.com/HyunjunYoo/BJA)
