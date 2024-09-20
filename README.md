@@ -19,7 +19,7 @@
  - [Silver I](https://github.com/HyunjunYoo/BOJ/tree/main/%EB%B0%B1%EC%A4%80/Silver)
 
 ### [Gold🥇](https://github.com/HyunjunYoo/BJA)
- - [Gold V](https://github.com/HyunjunYoo/BJA/tree/main/%EB%B0%B1%EC%A4%80/Gold/2042.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
- - [Gold IV](https://github.com/HyunjunYoo/BJA)
+ - [Gold V]https://github.com/HyunjunYoo/BOJ/tree/main/%EB%B0%B1%EC%A4%80/Gold
+ - [Gold IV]https://github.com/HyunjunYoo/BOJ/tree/main/%EB%B0%B1%EC%A4%80/Gold
 
 ### [Unranked](https://github.com/HyunjunYoo/BJA)
